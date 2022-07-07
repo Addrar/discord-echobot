@@ -1,0 +1,18 @@
+{
+    "token":"NTMzNTk3ODgzMDc4MDE3MDI1.GdAJhX.dGnvfTn-fkrCdZsod5bW6QNNLELD7TkSUfm1i8",
+    "redirects": [
+        {
+            "sources": [
+                "714871496258093098"
+            ],
+            "destinations": [
+              "https://discord.com/api/webhooks/994198925756092508/bSu19-XT2zHF_clon5ExcuHnuikEBJUZzhlFemowIPB8AzAaugd6oSN9x4az7ewj3Zth"
+            ],
+            "options": {
+                "title": "testing"
+            }
+        }
+           
+    ]
+	    
+}
